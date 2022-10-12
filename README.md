@@ -1,1 +1,1 @@
-# manual
+# Interreg NOMADe IMU + DCU Manual
